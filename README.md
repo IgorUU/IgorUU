@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @IgorUU
-- 👀 I’m interested in PHP, Symfony, Drupal
-- 🌱 I’m currently learning Drupal
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in PHP (Symfony, Drupal), NodeJS
+- 🌱 I’m currently learning Drupal, React and React-Native
 - 📫 How to reach me igor_1991@live.com
 
 <!---
